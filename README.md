@@ -1,5 +1,5 @@
 # Knowledge-Management
-This repository will be used only to plan the projects in Knowledge management 
+This repository will be used only to plan the learning projects 
 
 WP - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
