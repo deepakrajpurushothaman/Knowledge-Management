@@ -1,4 +1,4 @@
-# Social And Organizational Science
+# Social Sciences And Organizational Sciences
 This repository will be used only to plan the learning projects 
 
 WP - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
