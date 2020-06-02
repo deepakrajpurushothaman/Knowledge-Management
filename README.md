@@ -3,7 +3,7 @@ This repository will be used only to plan the projects in Knowledge management
 
 WP - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
-   [Foundations of Everyday Leadership](https://www.coursera.org/specializations/strategic-leadership)
+   [Foundations of Everyday Leadership](https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership)
 
    [Foundations of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership )
     
