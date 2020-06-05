@@ -1,7 +1,7 @@
 # Business Administration Education
 This repository will be used only to plan the path for Business Administration Learning projects 
 
-WP - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
+WP1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
    [Foundations of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership )
     
@@ -17,7 +17,7 @@ WP - [Strategic Leadership and management Specialization](https://www.coursera.o
     
    [Strategic Leadership and Management Capstone]( https://www.coursera.org/learn/strategic-leadership-capstone)
    
-   WP - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
+   WP2 - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
    
    [Firm Level Economics: Consumer and Producer Behavior](https://www.coursera.org/learn/firm-level-economics?specialization=managerial-economics-business-analysis)
    
