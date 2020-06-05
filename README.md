@@ -33,4 +33,20 @@ WP1 - [Strategic Leadership and management Specialization](https://www.coursera.
    
    [Managerial Economics and Business Analysis Capstone](https://www.coursera.org/learn/managerial-economics-capstone)
     
+  WP3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
+   
+   [Managerial Accounting: Cost Behaviors, Systems, and Analysis](https://www.coursera.org/learn/accounting-for-managers?specialization=value-chain-management)
+   
+   [Managerial Accounting: Tools for Facilitating and Guiding Business Decisions](https://www.coursera.org/learn/managerial-accounting-business-decisions?specialization=value-chain-management)
+   
+   [Operations Management: Analysis and Improvement Methods](https://www.coursera.org/learn/operations-management?specialization=value-chain-management)
+   
+   [Operations Management: Strategy and Quality Management for the Digital Age](https://www.coursera.org/learn/process-improvement?specialization=value-chain-management)
+   
+   [Marketing Management I](https://www.coursera.org/learn/marketing-management)
+   
+   [Marketing Management II](https://www.coursera.org/learn/marketing-management-two)
+   
+   [Value Chain Management Capstone](https://www.coursera.org/learn/value-chain-capstone)
+   
   
