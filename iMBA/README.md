@@ -1,3 +1,5 @@
+## Courses 
+
 This repository will be used only to plan the path for Business Administration Learning projects 
 
 WP1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
