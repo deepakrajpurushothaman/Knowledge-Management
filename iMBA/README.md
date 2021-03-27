@@ -1,4 +1,4 @@
-## Courses 
+# Courses 
 
 This repository will be used only to plan the path for Business Administration Learning projects 
 
