@@ -1,4 +1,4 @@
-# Courses 
+# Planned Courses 
 
 This repository will be used only to plan the path for Business Administration Learning projects 
 
@@ -13,8 +13,6 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
    [Managing the Organization]( https://www.coursera.org/learn/managing-organization?specialization=strategic-leadership)
     
    [Business Strategy]( https://www.coursera.org/learn/strategy-business)
-    
-   [Corporate Strategy ]( https://www.coursera.org/learn/corporate-strategy)
     
    [Strategic Leadership and Management Capstone]( https://www.coursera.org/learn/strategic-leadership-capstone)
    
@@ -50,3 +48,12 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
    
    [Value Chain Management Capstone](https://www.coursera.org/learn/value-chain-capstone)
    
+Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
+
+   [Strategic Innovation: Building and Sustaining Innovative Organizations]( https://www.coursera.org/learn/strategic-innovation-building-and-sustaining-innovative-organizations?specialization=innovation-creativity-entrepreneurship)
+   
+# Finished Courses 
+
+Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
+
+   [Corporate Strategy ]( https://www.coursera.org/learn/corporate-strategy)
