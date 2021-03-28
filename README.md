@@ -8,11 +8,11 @@ Corporate - 7
 
 Independent - 20
 
-## Planned Courses : 31
+## Planned Courses : 32
 
 University - 28
 
-Corporate - 1
+Corporate - 2
 
 Independent - 2
   
