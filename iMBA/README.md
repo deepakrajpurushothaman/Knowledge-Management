@@ -2,7 +2,7 @@
 
 This repository will be used only to plan the path for Business Administration Learning projects 
 
-WP1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
+Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
    [Foundations of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership )
     
@@ -18,7 +18,7 @@ WP1 - [Strategic Leadership and management Specialization](https://www.coursera.
     
    [Strategic Leadership and Management Capstone]( https://www.coursera.org/learn/strategic-leadership-capstone)
    
-   WP2 - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
+   Project2 - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
    
    [Firm Level Economics: Consumer and Producer Behavior](https://www.coursera.org/learn/firm-level-economics?specialization=managerial-economics-business-analysis)
    
@@ -34,7 +34,7 @@ WP1 - [Strategic Leadership and management Specialization](https://www.coursera.
    
    [Managerial Economics and Business Analysis Capstone](https://www.coursera.org/learn/managerial-economics-capstone)
     
-  WP3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
+  Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
    
    [Managerial Accounting: Cost Behaviors, Systems, and Analysis](https://www.coursera.org/learn/accounting-for-managers?specialization=value-chain-management)
    
