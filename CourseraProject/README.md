@@ -1,6 +1,8 @@
 # Planned Projects : 1
 
    [Financial Projections for Early Stage Start-ups]( https://www.coursera.org/projects/financial-projections-startups )
+   
+   [Jenkins : Automating your delivery pipeline]( https://www.coursera.org/projects/cicd-using-jenkins )
 
 # Finished Projects : 20 
 
