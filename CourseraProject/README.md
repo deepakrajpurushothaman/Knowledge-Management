@@ -5,8 +5,6 @@
    [Jenkins : Automating your delivery pipeline]( https://www.coursera.org/projects/cicd-using-jenkins )
 
 # Finished Projects : 20 
-
-   [Create Personas to Represent Targeted Users in Miro]( https://www.coursera.org/projects/create-personas-represent-targeted-users-miro )
    
    [RESTful API with HTTP and JavaScript]( https://www.coursera.org/projects/restful-api-http-javascript )
    
@@ -18,11 +16,7 @@
    
    [AWS: Publish a NodeJS Website from Scratch)]( https://www.coursera.org/projects/aws-publish-nodejs-website-from-scratch )
    
-   [Product Development: Customer Journey Mapping with Miro)]( https://www.coursera.org/projects/customer-journey-mapping-miro )
-   
    [Introduction to Javascript: The Basics)]( https://www.coursera.org/projects/intro-to-javascript-the-basics )
-      
-   [Screening Stocks for Investment)]( https://www.coursera.org/projects/screening-stocks-investment )
          
    [Basic Artificial Neural Networks in Python)]( https://www.coursera.org/projects/basic-artificial-neural-networks-in-python )
             
@@ -45,3 +39,13 @@
    [Traffic Sign Classification Using Deep Learning in Python/Keras)]( https://www.coursera.org/projects/traffic-sign-classification-deep-learning )
          
    [Build a Data Science Web App with Streamlit and Python)]( https://www.coursera.org/projects/data-science-streamlit-python )
+   
+   Business:
+   
+   [Product Development: Customer Journey Mapping with Miro)]( https://www.coursera.org/projects/customer-journey-mapping-miro )
+   
+   [Create Personas to Represent Targeted Users in Miro]( https://www.coursera.org/projects/create-personas-represent-targeted-users-miro )
+   
+   Finance:
+   
+   [Screening Stocks for Investment]( https://www.coursera.org/projects/screening-stocks-investment )
