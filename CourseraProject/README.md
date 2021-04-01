@@ -3,6 +3,26 @@
    [Financial Projections for Early Stage Start-ups]( https://www.coursera.org/projects/financial-projections-startups )
    
    [Jenkins : Automating your delivery pipeline]( https://www.coursera.org/projects/cicd-using-jenkins )
+   
+   [Build a Database from a Relational Model]( https://www.coursera.org/projects/build-a-database-from-a-relational-model )
+      
+   [Build an ultimate stock monitoring list using Google Sheets]( https://www.coursera.org/projects/build-stock-monitoring-google-sheets )
+         
+   [Develop a Savings Plan on Fixed Income with Google Sheets]( https://www.coursera.org/projects/fixed-income-savings-plan-with-google-sheets )
+            
+   [Tutorial: Compare Stock Returns with Google Sheets]( https://www.coursera.org/projects/compare-stock-returns-google-sheets )
+               
+   [Become a JavaScript Pro with these 7 Skills]( https://www.coursera.org/projects/become-a-js-pro-7-skills )
+                  
+   [Microservices with Spring Boot]( https://www.coursera.org/projects/microservices-with-spring-boot )
+                     
+   [Build a RESTful API(Node.js) using AWS Lambda & API Gateway]( https://www.coursera.org/projects/aws-lambda-api-gateway-nodejs )
+                     
+   [Typescript - Learn the fundamentals]( https://www.coursera.org/projects/rudi-hinds-typescript-learn-fundamentals )
+                     
+   [Build a RESTful Serverless API on AWS]( https://www.coursera.org/projects/restful-serverless-api-on-aws )
+                     
+   [Build a Node Server backend with Express]( https://www.coursera.org/projects/build-node-server-backend-express )
 
 # Finished Projects : 20 
    
