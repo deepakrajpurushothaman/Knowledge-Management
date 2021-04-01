@@ -50,7 +50,6 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
 
-   [Strategic Innovation: Managing Innovation Initiatives]( https://www.coursera.org/learn/strategic-innovation-innovation-at-the-frontier)
    
 # Finished Courses 
 
@@ -61,3 +60,5 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
 
    [Strategic Innovation: Building and Sustaining Innovative Organizations]( https://www.coursera.org/learn/strategic-innovation-building-and-sustaining-innovative-organizations?specialization=innovation-creativity-entrepreneurship)
+   
+   [Strategic Innovation: Managing Innovation Initiatives]( https://www.coursera.org/learn/strategic-innovation-innovation-at-the-frontier)
