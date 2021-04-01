@@ -1,10 +1,10 @@
 # Srategy for Learning Paths
 
-## Completed Courses : 42
+## Completed Courses : 44
 
-University - 15
+University - 16
 
-Corporate - 7
+Corporate - 8
 
 Independent - 20
 
