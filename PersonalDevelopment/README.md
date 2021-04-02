@@ -12,7 +12,23 @@
    
    [Exploring Our Responses to Climate Change Specialization]( https://www.coursera.org/specializations/our-responses-climate-change )
    
-   [Time to Reorganize! Understand Organizations, Act, and Build a Meaningful World.]( https://www.coursera.org/learn/orgology )
+   [Time to Reorganize! Understand Organizations, Act, and Build a Meaningful World]( https://www.coursera.org/learn/orgology )
+   
+   [The Arts and Science of Relationships: Understanding Human Needs]( https://www.coursera.org/learn/human-needs )
+      
+   [The Ancient Greek]( https://www.coursera.org/learn/ancient-greeks )
+      
+   [Heritage under Threat]( https://www.coursera.org/learn/heritage-protection )
+            
+   [Arts and Culture Strategy]( https://www.coursera.org/learn/arts-culture-strategy )
+                        
+   [Music and Social Action]( https://www.coursera.org/learn/music-and-social-action )
+   
+   [Leading Sustainable Community Transformation Specialization]( https://www.coursera.org/specializations/sustainable-transformation )
+   
+   [Electronic Music Production Specialization]( https://www.coursera.org/specializations/electronic-music-production )
+   
+      [Personal & Family Financial Planning]( https://www.coursera.org/learn/family-planning )
 
 ProjectX - [Photography Basics and Beyond: From Smartphone to DSLR Specialization]( https://www.coursera.org/specializations/photography-basics )
 
