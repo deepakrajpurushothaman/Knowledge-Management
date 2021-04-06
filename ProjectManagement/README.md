@@ -1,12 +1,12 @@
 # Planned Courses
 
-ProjectX - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
+Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
    [Project Planning: Putting It All Together]( https://www.coursera.org/learn/project-planning-google? )
 
 # Finished Courses
 
-ProjectX - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
+Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
    [Foundations of Project Management]( https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management )
    
