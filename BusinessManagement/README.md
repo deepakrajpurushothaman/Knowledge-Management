@@ -1,8 +1,12 @@
 # Planned Courses
 
+   [Customer Insights: New Product Development Orientation]( https://www.coursera.org/learn/customer-insights-orientation )
+   
+   [Customer Insights: Quantitative Techniques]( https://www.coursera.org/learn/quantitative-customer-insights )
+  
    [Subsistence Marketplaces]( https://www.coursera.org/learn/subsistence-marketplaces )
    
-[Become a Sustainable Business Change Agent Specialization]( https://www.coursera.org/specializations/sustainable-business-change-agent )
+   [Become a Sustainable Business Change Agent Specialization]( https://www.coursera.org/specializations/sustainable-business-change-agent )
 
    [Doing Business in Europe]( https://www.coursera.org/learn/doing-business-in-europe )
    
