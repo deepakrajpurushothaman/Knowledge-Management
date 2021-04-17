@@ -1,4 +1,6 @@
-# Planned Courses
+# Project Management 
+
+## Planned Courses
 
 Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
@@ -6,7 +8,7 @@ Project5 - [Google Project Management Professional Certificate]( https://www.cou
    
 ProjectX - [Agile Leadership Specialization]( https://www.coursera.org/specializations/agile-leadership-change-management )
 
-# Finished Courses
+## Finished Courses
 
 Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
@@ -23,3 +25,25 @@ Project5 - [Google Project Management Professional Certificate]( https://www.cou
 ProjectX - [Engineering Project Management Specialization]( https://www.coursera.org/specializations/engineering-project-management )
 
    [Engineering Project Management: Initiating and Planning]( https://www.coursera.org/learn/initiating-planning )
+   
+# Business Management 
+
+## Planned Courses
+
+   [Customer Insights: New Product Development Orientation]( https://www.coursera.org/learn/customer-insights-orientation )
+   
+   [Customer Insights: Quantitative Techniques]( https://www.coursera.org/learn/quantitative-customer-insights )
+  
+   [Subsistence Marketplaces]( https://www.coursera.org/learn/subsistence-marketplaces )
+   
+   [Become a Sustainable Business Change Agent Specialization]( https://www.coursera.org/specializations/sustainable-business-change-agent )
+
+   [Doing Business in Europe]( https://www.coursera.org/learn/doing-business-in-europe )
+   
+   [Doing Business in China Specialization]( https://www.coursera.org/specializations/doing-business-in-china )
+   
+   [Strategic Sales Management Specialization]( https://www.coursera.org/specializations/sales-management-bridging-gap-strategy-sales )
+   
+   [Real-World Product Management Specialization]( https://www.coursera.org/specializations/real-world-product-management )
+
+## Finished Courses 
