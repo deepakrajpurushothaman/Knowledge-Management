@@ -1,4 +1,4 @@
-# Project Management 
+# 1.0 Project Management 
 
 ## Planned Courses
 
@@ -26,7 +26,7 @@ ProjectX - [Engineering Project Management Specialization]( https://www.coursera
 
    [Engineering Project Management: Initiating and Planning]( https://www.coursera.org/learn/initiating-planning )
    
-# Business Management 
+# 2.0 Business Management 
 
 ## Planned Courses
 
