@@ -4,6 +4,15 @@ This repository will be used only to plan the path for Business Administration L
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
+| Course Name | Effort |
+| --- | --- |
+| [Foundations of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership ) | 15 Hrs |
+| [Applications of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-application?specialization=strategic-leadership) | 15 Hrs |
+| [Designing the Organization]( https://www.coursera.org/learn/designing-organization?specialization=strategic-leadership) | 13 Hrs |
+| [Managing the Organization]( https://www.coursera.org/learn/managing-organization?specialization=strategic-leadership) | 12 Hrs |
+| [Business Strategy]( https://www.coursera.org/learn/strategy-business) | 17 Hrs |
+| [Strategic Leadership and Management Capstone]( https://www.coursera.org/learn/strategic-leadership-capstone) | 10 Hrs |
+
    [Foundations of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-foundation?specialization=strategic-leadership )
     
    [Applications of Everyday Leadership]( https://www.coursera.org/learn/everyday-leadership-application?specialization=strategic-leadership)
@@ -57,7 +66,7 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
 
 | Course Name | Effort |
 | --- | --- |
-| [Corporate Strategy ]( https://www.coursera.org/learn/corporate-strategy) | - |
+| [Corporate Strategy ]( https://www.coursera.org/learn/corporate-strategy) | 10 Hrs |
 | - | - |
 
    
