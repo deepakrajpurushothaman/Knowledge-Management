@@ -42,6 +42,9 @@ Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( htt
    
 # Finished Courses 
 
+| Total Effort | 41 Hrs |
+| --- | --- |
+
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
 | Course Name | Effort |
