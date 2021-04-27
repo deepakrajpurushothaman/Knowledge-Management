@@ -14,7 +14,14 @@ ProjectX - [MATLAB Programming for Engineers and Scientists Specialization]( htt
    
 
 # Finished Courses 
+
+| Total Effort | 35 Hrs |
+| --- | --- |
+| University | 35 Hrs |
+
+| Course Name | Effort |
+| --- | --- |
+| [Introduction to Self-Driving Cars]( https://www.coursera.org/learn/intro-self-driving-cars?specialization=self-driving-cars ) | 35 Hrs |
    
-   [Introduction to Self-Driving Cars]( https://www.coursera.org/learn/intro-self-driving-cars?specialization=self-driving-cars )
   
    
