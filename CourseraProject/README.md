@@ -26,7 +26,8 @@
 
 # Finished Projects : 20 
 
-| Total Effort: | 20 Hrs | 
+| Total Effort | 20 Hrs |
+| --- | --- |
 
 | Course Name | Effort |
 | --- | --- |
