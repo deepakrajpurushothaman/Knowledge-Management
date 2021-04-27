@@ -1,6 +1,4 @@
-# Planned Courses 
-
-This repository will be used only to plan the path for Business Administration Learning projects 
+# Planned Courses  
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 
@@ -15,20 +13,17 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
 
    
 Project2 - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
-   
-   [Firm Level Economics: Consumer and Producer Behavior](https://www.coursera.org/learn/firm-level-economics?specialization=managerial-economics-business-analysis)
-   
-   [Firm Level Economics: Markets and Allocations](https://www.coursera.org/learn/firm-level-economics-markets?specialization=managerial-economics-business-analysis)
-   
-   [Country Level Economics: Macroeconomic Variables and Markets](https://www.coursera.org/learn/country-level-economics?specialization=managerial-economics-business-analysis)
-   
-   [Country Level Economics: Policies, Institutions, and Macroeconomic Performance](https://www.coursera.org/learn/macroeconomic-factors?specialization=managerial-economics-business-analysis)
-   
-   [Exploring and Producing Data for Business Decision Making](https://www.coursera.org/learn/business-data)
-   
-   [Inferential and Predictive Statistics for Business](https://www.coursera.org/learn/business-statistics)
-   
-   [Managerial Economics and Business Analysis Capstone](https://www.coursera.org/learn/managerial-economics-capstone)
+
+| Course Name | Effort |
+| --- | --- |
+|  [Firm Level Economics: Consumer and Producer Behavior](https://www.coursera.org/learn/firm-level-economics?specialization=managerial-economics-business-analysis) | 17 Hrs |
+|  [Firm Level Economics: Markets and Allocations](https://www.coursera.org/learn/firm-level-economics-markets?specialization=managerial-economics-business-analysis) | 18 Hrs |
+| [Country Level Economics: Macroeconomic Variables and Markets](https://www.coursera.org/learn/country-level-economics?specialization=managerial-economics-business-analysis) | 17 Hrs |
+|  [Country Level Economics: Policies, Institutions, and Macroeconomic Performance](https://www.coursera.org/learn/macroeconomic-factors?specialization=managerial-economics-business-analysis) | 16 Hrs |
+| [Exploring and Producing Data for Business Decision Making](https://www.coursera.org/learn/business-data) | 23 Hrs |
+| [Inferential and Predictive Statistics for Business](https://www.coursera.org/learn/business-statistics) | 19 Hrs |
+| [Managerial Economics and Business Analysis Capstone](https://www.coursera.org/learn/managerial-economics-capstone) | 26 Hrs |
+  
     
 Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
    
