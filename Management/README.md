@@ -1,10 +1,6 @@
 # 1.0 Project Management 
 
 ## Planned Courses
-
-Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
-
-   [Capstone: Applying Project Management in the Real World]( https://www.coursera.org/learn/applying-project-management )
    
 ProjectX - [Agile Leadership Specialization]( https://www.coursera.org/specializations/agile-leadership-change-management )
 
@@ -12,15 +8,15 @@ ProjectX - [Agile Leadership Specialization]( https://www.coursera.org/specializ
 
 Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
-   [Foundations of Project Management]( https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management )
-   
-   [Project Initiation: Starting a Successful Project]( https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management )
-   
-   [Project Planning: Putting It All Together]( https://www.coursera.org/learn/project-planning-google? )
-   
-   [Project Execution: Running the Project]( https://www.coursera.org/learn/project-execution-google?specialization=google-project-management )
-   
-   [Agile Project Management]( https://www.coursera.org/learn/agile-project-management )
+| Course Name | Effort |
+| --- | --- |
+| [Foundations of Project Management]( https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management ) | 14 Hrs |
+| [Project Initiation: Starting a Successful Project]( https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management ) | 16 Hrs |
+| [Project Planning: Putting It All Together]( https://www.coursera.org/learn/project-planning-google? ) | 23 Hrs |
+| [Project Execution: Running the Project]( https://www.coursera.org/learn/project-execution-google?specialization=google-project-management ) | 21 Hrs |
+| [Agile Project Management]( https://www.coursera.org/learn/agile-project-management ) | 21 Hrs |
+| [Capstone: Applying Project Management in the Real World]( https://www.coursera.org/learn/applying-project-management ) | 31 Hrs |
+
 
 ProjectX - [Engineering Project Management Specialization]( https://www.coursera.org/specializations/engineering-project-management )
 
