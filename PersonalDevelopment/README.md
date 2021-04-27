@@ -28,7 +28,7 @@
    
    [Electronic Music Production Specialization]( https://www.coursera.org/specializations/electronic-music-production )
    
-      [Personal & Family Financial Planning]( https://www.coursera.org/learn/family-planning )
+   [Personal & Family Financial Planning]( https://www.coursera.org/learn/family-planning )
 
 ProjectX - [Photography Basics and Beyond: From Smartphone to DSLR Specialization]( https://www.coursera.org/specializations/photography-basics )
 
