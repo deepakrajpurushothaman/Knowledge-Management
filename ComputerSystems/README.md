@@ -14,6 +14,8 @@
 
 | Total Effort| 72 Hrs |
 | --- | --- |
+| University | 17 Hrs |
+| Corporate | 55 Hrs |
 
 | Course Name| Effort |
 | --- | --- |
