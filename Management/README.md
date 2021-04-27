@@ -20,8 +20,10 @@ Project5 - [Google Project Management Professional Certificate]( https://www.cou
 
 ProjectX - [Engineering Project Management Specialization]( https://www.coursera.org/specializations/engineering-project-management )
 
-   [Engineering Project Management: Initiating and Planning]( https://www.coursera.org/learn/initiating-planning )
-   
+| Course Name | Effort |
+| --- | --- |
+| [Engineering Project Management: Initiating and Planning]( https://www.coursera.org/learn/initiating-planning ) | 20 Hrs |
+
 # 2.0 Business Management 
 
 ## Planned Courses
