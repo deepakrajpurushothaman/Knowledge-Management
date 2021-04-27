@@ -25,7 +25,9 @@
    [Build a Node Server backend with Express]( https://www.coursera.org/projects/build-node-server-backend-express )
 
 # Finished Projects : 20 
-   
+
+| Total Effort: | 20 Hrs | 
+
 | Course Name | Effort |
 | --- | --- |
 | Engineering: | - | 
