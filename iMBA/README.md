@@ -26,20 +26,16 @@ Project2 - [Managerial Economics and Business Analysis Specialization](https://w
   
     
 Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
-   
-   [Managerial Accounting: Cost Behaviors, Systems, and Analysis](https://www.coursera.org/learn/accounting-for-managers?specialization=value-chain-management)
-   
-   [Managerial Accounting: Tools for Facilitating and Guiding Business Decisions](https://www.coursera.org/learn/managerial-accounting-business-decisions?specialization=value-chain-management)
-   
-   [Operations Management: Analysis and Improvement Methods](https://www.coursera.org/learn/operations-management?specialization=value-chain-management)
-   
-   [Operations Management: Strategy and Quality Management for the Digital Age](https://www.coursera.org/learn/process-improvement?specialization=value-chain-management)
-   
-   [Marketing Management I](https://www.coursera.org/learn/marketing-management)
-   
-   [Marketing Management II](https://www.coursera.org/learn/marketing-management-two)
-   
-   [Value Chain Management Capstone](https://www.coursera.org/learn/value-chain-capstone)
+
+| Course Name | Effort |
+| --- | --- |
+| [Managerial Accounting: Cost Behaviors, Systems, and Analysis](https://www.coursera.org/learn/accounting-for-managers?specialization=value-chain-management) | 20 Hrs |
+| [Managerial Accounting: Tools for Facilitating and Guiding Business Decisions](https://www.coursera.org/learn/managerial-accounting-business-decisions?specialization=value-chain-management) | 24 Hrs |
+| [Operations Management: Analysis and Improvement Methods](https://www.coursera.org/learn/operations-management?specialization=value-chain-management) | 19 Hrs |
+| [Operations Management: Strategy and Quality Management for the Digital Age](https://www.coursera.org/learn/process-improvement?specialization=value-chain-management)|18 Hrs|
+| [Marketing Management I](https://www.coursera.org/learn/marketing-management) | 12 Hrs |
+| [Marketing Management II](https://www.coursera.org/learn/marketing-management-two) | 15 Hrs |
+| [Value Chain Management Capstone](https://www.coursera.org/learn/value-chain-capstone) | 9 Hrs |
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
 
