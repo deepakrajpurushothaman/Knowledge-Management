@@ -8,17 +8,22 @@
    
    [Internet History, Technology, and Security]( https://www.coursera.org/learn/internet-history?ranMID=40328&ranEAID=*GqSdLGGurk&ranSiteID=.GqSdLGGurk-Tqcj7iUmljeMw6_a7E9OmQ&siteID=.GqSdLGGurk-Tqcj7iUmljeMw6_a7E9OmQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=*GqSdLGGurk )
    
-      [Introduction to Web Development]( https://www.coursera.org/learn/web-development )
+   [Introduction to Web Development]( https://www.coursera.org/learn/web-development )
 
 # Finished Courses
 
-   [Introduction to Architecting Smart IoT Devices]( https://www.coursera.org/learn/iot-devices? )
+| Total Effort| 72 Hrs |
+| --- | --- |
+
+| Course Name| Effort |
+| --- | --- |
+| [Introduction to Architecting Smart IoT Devices]( https://www.coursera.org/learn/iot-devices? ) | 17 Hrs |
+| [Managing Machine Learning Projects with Google Cloud]( https://www.coursera.org/learn/machine-learning-business-professionals? ) | 14 Hrs |
+| [Industrial IoT on Google Cloud Platform]( https://www.coursera.org/learn/iiot-google-cloud-platform? ) | 15 Hrs |
+| [Cloud Computing Basics (Cloud 101)]( https://www.coursera.org/learn/cloud-computing-basics? ) | 9 Hrs |
+| [Penetration Testing, Incident Response and Forensics]( https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics? ) | 17 Hrs |
+
+
    
-   [Managing Machine Learning Projects with Google Cloud]( https://www.coursera.org/learn/machine-learning-business-professionals? )
    
-   [Industrial IoT on Google Cloud Platform]( https://www.coursera.org/learn/iiot-google-cloud-platform? )
-   
-   [Cloud Computing Basics (Cloud 101)]( https://www.coursera.org/learn/cloud-computing-basics? )
-   
-   [Penetration Testing, Incident Response and Forensics]( https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics? )
    
