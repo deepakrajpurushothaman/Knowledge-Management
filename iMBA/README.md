@@ -42,7 +42,44 @@ Project3 - [Value Chain Management Specialization](https://www.coursera.org/spec
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
 
+| Course Name | Effort |
+| --- | --- |
+| [Creativity Toolkit I: Changing Perspectives](https://www.coursera.org/learn/creativity-toolkit-1?specialization=innovation-creativity-entrepreneurship) | 17 Hrs |
+| [Creativity Toolkit II: Creative Collaboration](https://www.coursera.org/learn/creativity-toolkit-2?specialization=innovation-creativity-entrepreneurship) | 20 Hrs |
+| [Entrepreneurship I: Laying the Foundation](https://www.coursera.org/learn/entrepreneurship-1?specialization=innovation-creativity-entrepreneurship) | 14 Hrs |
+| [Entrepreneurship II: Preparing for Launch](https://www.coursera.org/learn/entrepreneurship-2?specialization=innovation-creativity-entrepreneurship) | 13 Hrs |
+| [Innovation: From Creativity to Entrepreneurship Capstone](https://www.coursera.org/learn/innovation-creativity-entrepreneurship-capstone?specialization=innovation-creativity-entrepreneurship) | 7 Hrs |
    
+ProjectX - [Financial Management Specialization]( https://www.coursera.org/specializations/financial-management )
+
+| Course Name | Effort |
+| --- | --- |
+| [Financial Accounting: Foundations](https://www.coursera.org/learn/financial-accounting-basics?specialization=financial-management) | 14 Hrs |
+| [Financial Accounting: Advanced Topics](https://www.coursera.org/learn/financial-accounting-advanced?specialization=financial-management) | 13 Hrs |
+| [Investments I: Fundamentals of Performance Evaluation](https://www.coursera.org/learn/investments-fundamentals?specialization=financial-management) | 26 Hrs |
+| [Investments II: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications?specialization=financial-management) | 20 Hrs |
+| [Corporate Finance I: Measuring and Promoting Value Creation](https://www.coursera.org/learn/corporate-finance-measure-success?specialization=financial-management) | 25 Hrs |
+| [Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/learn/corporate-finance-two?specialization=financial-management) | 20 Hrs |
+| [Financial Management Capstone](https://www.coursera.org/learn/financial-management-capstone?specialization=financial-management) | 6 Hrs |
+
+ProjectX - [Business Analytics]( https://www.coursera.org/specializations/financial-management )
+
+| Course Name | Effort |
+| --- | --- |
+| [Introduction to Business Analytics: Communicating with Data](https://www.coursera.org/learn/intro-business-analytics) | 14 Hrs |
+
+ProjectX - [Global Challenges in Business Specialization]( https://www.coursera.org/specializations/global-challenges-business?index=prod_all_products_term_optimization )
+
+| Course Name | Effort |
+| --- | --- |
+| [Sustainable Innovation for Subsistence Marketplaces](https://www.coursera.org/learn/subsistence-marketplaces-1?specialization=global-challenges-business) | 32 Hrs |
+| [Sustainable Business Enterprises](https://www.coursera.org/learn/sustainable-business-enterprises?specialization=global-challenges-business) | 21 Hrs |
+| [Global Strategy I: How The Global Economy Works](https://www.coursera.org/learn/global-strategy?specialization=global-challenges-business) | 12 Hrs |
+| [Global Strategy II: Doing Business in The Global Economy](https://www.coursera.org/learn/global-strategy-two?specialization=global-challenges-business) | 10 Hrs |
+| [Global Impact: Cultural Psychology](https://www.coursera.org/learn/cultural-psychology-globalization?specialization=global-challenges-business) | 11 Hrs |
+| [Global Impact: Business Ethics](https://www.coursera.org/learn/business-ethics?specialization=global-challenges-business) | 9 Hrs |
+| [Global Challenges in Business Capstone](https://www.coursera.org/learn/global-challenges-business-capstone?specialization=global-challenges-business) | 13 Hrs |
+
 # Finished Courses 
 
 | Total Effort | 41 Hrs |
