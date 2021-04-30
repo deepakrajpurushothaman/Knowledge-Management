@@ -89,7 +89,11 @@ Project1 - [Strategic Leadership and management Specialization](https://www.cour
 | Course Name | Effort |
 | --- | --- |
 | [Corporate Strategy ]( https://www.coursera.org/learn/corporate-strategy) | 10 Hrs |
-| - | - |
+
+Project2 - [Managerial Economics and Business Analysis Specialization](https://www.coursera.org/specializations/managerial-economics-business-analysis?)
+
+
+Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
 
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
