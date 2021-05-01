@@ -1,5 +1,9 @@
 # Planned Courses
 
+   [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential]( https://www.coursera.org/learn/mindshift )
+   
+   [Learning How to Learn: Powerful mental tools to help you master tough subjects]( https://www.coursera.org/learn/learning-how-to-learn )
+   
    [FINANCIAL MARKETS: A BEGINNER'S MODULE]( https://www.nseindia.com/learn/self-study-ncfm-modules-foundation-financial-markets )
    
    [Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious]( https://www.coursera.org/learn/know-thyself-the-unconscious )
