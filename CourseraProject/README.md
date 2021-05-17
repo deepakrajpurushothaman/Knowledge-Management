@@ -41,18 +41,18 @@
 | 7 | [Basic Artificial Neural Networks in Python)]( https://www.coursera.org/projects/basic-artificial-neural-networks-in-python ) | 1 Hrs |
 | 8 | [Build a Full-Stack Server for API Requests - NodeJS and Pug)]( https://www.coursera.org/projects/basic-server-nodejs ) | 1 Hrs |
 | 9 | [Build a Simple App in Android Studio with Java)]( https://www.coursera.org/projects/build-app-android-studio-java ) | 1 Hrs |
-| 11 | [Transfer Learning for Food Classification)]( https://www.coursera.org/projects/transfer-learning-food-classification ) | 1 Hrs |
-| 12 | [Perform Real-Time Object Detection with YOLOv3)]( https://www.coursera.org/projects/real-time-object-detection-yolo ) | 1 Hrs |
-| 13 | [Introduction to The Robot Operating System (ROS2))]( https://www.coursera.org/projects/ros2-intro ) | 1 Hrs |
-| 14 | [Mining Data to Extract and Visualize Insights in Python)]( https://www.coursera.org/projects/data-mining-visualization-in-python ) | 1 Hrs |
-| 15 | [Build a Facebook Clone with PHP)]( https://www.coursera.org/projects/build-facebook-clone-php ) | 1 Hrs |
-| 16 | [Build Your Portfolio Website with HTML and CSS)]( https://www.coursera.org/projects/build-portfolio-website-html-css ) | 1 Hrs | 
-| 17 | [Traffic Sign Classification Using Deep Learning in Python/Keras)]( https://www.coursera.org/projects/traffic-sign-classification-deep-learning ) | 1 Hrs |
-| 18 | [Build a Data Science Web App with Streamlit and Python)]( https://www.coursera.org/projects/data-science-streamlit-python ) | 1 Hrs |
+| 10 | [Transfer Learning for Food Classification)]( https://www.coursera.org/projects/transfer-learning-food-classification ) | 1 Hrs |
+| 11 | [Perform Real-Time Object Detection with YOLOv3)]( https://www.coursera.org/projects/real-time-object-detection-yolo ) | 1 Hrs |
+| 12 | [Introduction to The Robot Operating System (ROS2))]( https://www.coursera.org/projects/ros2-intro ) | 1 Hrs |
+| 13 | [Mining Data to Extract and Visualize Insights in Python)]( https://www.coursera.org/projects/data-mining-visualization-in-python ) | 1 Hrs |
+| 14 | [Build a Facebook Clone with PHP)]( https://www.coursera.org/projects/build-facebook-clone-php ) | 1 Hrs |
+| 15 | [Build Your Portfolio Website with HTML and CSS)]( https://www.coursera.org/projects/build-portfolio-website-html-css ) | 1 Hrs | 
+| 16 | [Traffic Sign Classification Using Deep Learning in Python/Keras)]( https://www.coursera.org/projects/traffic-sign-classification-deep-learning ) | 1 Hrs |
+| 17 | [Build a Data Science Web App with Streamlit and Python)]( https://www.coursera.org/projects/data-science-streamlit-python ) | 1 Hrs |
 | - | Business: | - | 
-| 19 | [Product Development: Customer Journey Mapping with Miro)]( https://www.coursera.org/projects/customer-journey-mapping-miro ) | 1 Hrs |
-| 20 | [Create Personas to Represent Targeted Users in Miro]( https://www.coursera.org/projects/create-personas-represent-targeted-users-miro ) | 1 Hrs | 
+| 18 | [Product Development: Customer Journey Mapping with Miro)]( https://www.coursera.org/projects/customer-journey-mapping-miro ) | 1 Hrs |
+| 19 | [Create Personas to Represent Targeted Users in Miro]( https://www.coursera.org/projects/create-personas-represent-targeted-users-miro ) | 1 Hrs | 
 | - | Finance: | - | 
-| 21 | [Screening Stocks for Investment]( https://www.coursera.org/projects/screening-stocks-investment ) | 1 Hrs |
+| 20 | [Screening Stocks for Investment]( https://www.coursera.org/projects/screening-stocks-investment ) | 1 Hrs |
 
 
