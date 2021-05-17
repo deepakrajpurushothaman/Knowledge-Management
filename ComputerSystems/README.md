@@ -17,13 +17,13 @@
 | University | 17 Hrs |
 | Corporate | 55 Hrs |
 
-| Course Name| Effort |
-| --- | --- |
-| [Introduction to Architecting Smart IoT Devices]( https://www.coursera.org/learn/iot-devices? ) | 17 Hrs |
-| [Managing Machine Learning Projects with Google Cloud]( https://www.coursera.org/learn/machine-learning-business-professionals? ) | 14 Hrs |
-| [Industrial IoT on Google Cloud Platform]( https://www.coursera.org/learn/iiot-google-cloud-platform? ) | 15 Hrs |
-| [Cloud Computing Basics (Cloud 101)]( https://www.coursera.org/learn/cloud-computing-basics? ) | 9 Hrs |
-| [Penetration Testing, Incident Response and Forensics]( https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics? ) | 17 Hrs |
+| Count | Course Name| Effort |
+| - | --- | --- |
+| 1 | [Introduction to Architecting Smart IoT Devices]( https://www.coursera.org/learn/iot-devices? ) | 17 Hrs |
+| 2 | [Managing Machine Learning Projects with Google Cloud]( https://www.coursera.org/learn/machine-learning-business-professionals? ) | 14 Hrs |
+| 3 | [Industrial IoT on Google Cloud Platform]( https://www.coursera.org/learn/iiot-google-cloud-platform? ) | 15 Hrs |
+| 4 | [Cloud Computing Basics (Cloud 101)]( https://www.coursera.org/learn/cloud-computing-basics? ) | 9 Hrs |
+| 5 | [Penetration Testing, Incident Response and Forensics]( https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics? ) | 17 Hrs |
 
 
    
