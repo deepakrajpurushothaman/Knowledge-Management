@@ -4,10 +4,10 @@
 
 Number of Courses Taken 
 
-| Number of Courses | 54 |
+| Number of Courses | 53 |
 | --- | --- |
 | University | 19 |
-| Corporate | 15 |
+| Corporate | 14 |
 | Independent | 20 |
 
 Number of Effort spent measured in hours
