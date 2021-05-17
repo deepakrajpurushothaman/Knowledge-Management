@@ -4,7 +4,7 @@
 
 Number of Courses Taken 
 
-| Number of Courses | 55 |
+| Number of Courses | 54 |
 | --- | --- |
 | University | 19 |
 | Corporate | 15 |
