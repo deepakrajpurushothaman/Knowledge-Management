@@ -30,7 +30,7 @@
 | --- | --- |
 
 | Count| Course Name | Effort |
-| --- || --- | --- |
+| --- | --- | --- |
 | - | Engineering: | - | 
 | 1 | [RESTful API with HTTP and JavaScript]( https://www.coursera.org/projects/restful-api-http-javascript ) | 1 Hrs |
 | 1 | [Hosting a Static Website (HTML/CSS/Javascript) in AWS S3]( https://www.coursera.org/account/accomplishments/verify/UCT4THAFKDV4 ) | 1 Hrs |
