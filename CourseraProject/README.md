@@ -29,9 +29,9 @@
 | Total Effort | 20 Hrs |
 | --- | --- |
 
-| Course Name | Effort |
+| Count| Course Name | Effort |
 | --- | --- |
-| Engineering: | - | 
+| - | Engineering: | - | 
 | 1 | [RESTful API with HTTP and JavaScript]( https://www.coursera.org/projects/restful-api-http-javascript ) | 1 Hrs |
 | [Hosting a Static Website (HTML/CSS/Javascript) in AWS S3]( https://www.coursera.org/account/accomplishments/verify/UCT4THAFKDV4 ) | 1 Hrs |
 | [Postman - Intro to APIs (without coding)]( https://www.coursera.org/projects/laura-gemmell-intro-postman-apis ) | 1 Hrs |
