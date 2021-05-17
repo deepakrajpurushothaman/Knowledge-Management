@@ -15,13 +15,17 @@ ProjectX - [MATLAB Programming for Engineers and Scientists Specialization]( htt
 
 # Finished Courses 
 
-| Total Effort | 35 Hrs |
+| Total Effort | 79 Hrs |
 | --- | --- |
-| University | 35 Hrs |
+| University | 79 Hrs |
 
-| Course Name | Effort |
-| --- | --- |
-| [Introduction to Self-Driving Cars]( https://www.coursera.org/learn/intro-self-driving-cars?specialization=self-driving-cars ) | 35 Hrs |
+| Count | Course Name | Effort |
+| --- | --- | --- |
+| 1 | [Introduction to Self-Driving Cars]( https://www.coursera.org/learn/intro-self-driving-cars?specialization=self-driving-cars ) | 35 Hrs |
+| 2 | [Digital Manufacturing & Design]( https://www.coursera.org/learn/digital-manufacturing-design?specialization=digital-manufacturing-design-technology ) | 10 Hrs |
+| 3 | [Digital Thread: Components]( https://www.coursera.org/learn/digital-thread-components?specialization=digital-manufacturing-design-technology ) | 14 Hrs |
+| 4 | [Digital Thread: Implementation]( https://www.coursera.org/learn/digital-thread-implementation?specialization=digital-manufacturing-design-technology ) | 20 Hrs |
+
    
   
    
