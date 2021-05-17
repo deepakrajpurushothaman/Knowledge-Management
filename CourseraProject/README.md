@@ -32,7 +32,7 @@
 | Course Name | Effort |
 | --- | --- |
 | Engineering: | - | 
-| [RESTful API with HTTP and JavaScript]( https://www.coursera.org/projects/restful-api-http-javascript ) | 1 Hrs |
+| 1 | [RESTful API with HTTP and JavaScript]( https://www.coursera.org/projects/restful-api-http-javascript ) | 1 Hrs |
 | [Hosting a Static Website (HTML/CSS/Javascript) in AWS S3]( https://www.coursera.org/account/accomplishments/verify/UCT4THAFKDV4 ) | 1 Hrs |
 | [Postman - Intro to APIs (without coding)]( https://www.coursera.org/projects/laura-gemmell-intro-postman-apis ) | 1 Hrs |
 | [Introduction to Relational Database and SQL)]( https://www.coursera.org/projects/introduction-to-relational-database-and-sql ) | 1 Hrs |
