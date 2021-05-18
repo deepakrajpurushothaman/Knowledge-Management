@@ -15,9 +15,9 @@ ProjectX - [MATLAB Programming for Engineers and Scientists Specialization]( htt
 
 # Finished Courses 
 
-| Total Effort | 100 Hrs |
+| Total Effort | 120 Hrs |
 | --- | --- |
-| University | 100 Hrs |
+| University | 120 Hrs |
 
 | Count | Course Name | Effort | 
 | --- | --- | --- |
@@ -26,6 +26,7 @@ ProjectX - [MATLAB Programming for Engineers and Scientists Specialization]( htt
 | 3 | [Digital Thread: Components]( https://www.coursera.org/learn/digital-thread-components?specialization=digital-manufacturing-design-technology ) | 14 Hrs |
 | 4 | [Digital Thread: Implementation]( https://www.coursera.org/learn/digital-thread-implementation?specialization=digital-manufacturing-design-technology ) | 20 Hrs |
 | 5 | [Fundamentals of Electric Drives]( https://www.coursera.org/learn/digital-thread-implementation?specialization=digital-manufacturing-design-technology ) | 21 Hrs |
+| 6 | [Self-Driving Fundamentals: Featuring Apollo]( https://www.udacity.com/course/self-driving-car-fundamentals-featuring-apollo--ud0419 ) | 20 Hrs |
    
   
    
