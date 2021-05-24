@@ -1,6 +1,6 @@
 # Planned Courses  
 
-| Total Effort | 635 Hrs |
+| Total Effort | 623 Hrs |
 | --- | --- |
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
@@ -36,7 +36,6 @@ Project3 - [Value Chain Management Specialization](https://www.coursera.org/spec
 | [Managerial Accounting: Tools for Facilitating and Guiding Business Decisions](https://www.coursera.org/learn/managerial-accounting-business-decisions?specialization=value-chain-management) | 24 Hrs |
 | [Operations Management: Analysis and Improvement Methods](https://www.coursera.org/learn/operations-management?specialization=value-chain-management) | 19 Hrs |
 | [Operations Management: Strategy and Quality Management for the Digital Age](https://www.coursera.org/learn/process-improvement?specialization=value-chain-management)|18 Hrs|
-| [Marketing Management I](https://www.coursera.org/learn/marketing-management) | 12 Hrs |
 | [Marketing Management II](https://www.coursera.org/learn/marketing-management-two) | 15 Hrs |
 | [Value Chain Management Capstone](https://www.coursera.org/learn/value-chain-capstone) | 9 Hrs |
    
@@ -81,7 +80,7 @@ ProjectX - [Global Challenges in Business Specialization]( https://www.coursera.
 
 # Finished Courses 
 
-| Total Effort | 58 Hrs |
+| Total Effort | 70 Hrs |
 | --- | --- |
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
@@ -94,7 +93,7 @@ Project2 - [Managerial Economics and Business Analysis Specialization](https://w
 
 
 Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
-
+| [Marketing Management I](https://www.coursera.org/learn/marketing-management) | 12 Hrs |
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
 
