@@ -93,6 +93,9 @@ Project2 - [Managerial Economics and Business Analysis Specialization](https://w
 
 
 Project3 - [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management?)
+
+| Course Name | Effort |
+| --- | --- |
 | [Marketing Management I](https://www.coursera.org/learn/marketing-management) | 12 Hrs |
    
 Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( https://www.coursera.org/specializations/innovation-creativity-entrepreneurship )
