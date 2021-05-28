@@ -1,6 +1,6 @@
 # Planned Courses  
 
-| Total Effort | 623 Hrs |
+| Total Effort | 603 Hrs |
 | --- | --- |
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
