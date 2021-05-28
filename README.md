@@ -4,17 +4,17 @@
 
 Number of Courses Taken 
 
-| Number of Courses | 56 |
+| Number of Courses | 57 |
 | --- | --- |
-| University | 21 |
+| University | 22 |
 | Corporate | 15 |
 | Independent | 20 |
 
 Number of Effort spent measured in hours
 
-| Total Effort | 456 Hrs |
+| Total Effort | 476 Hrs |
 | --- | --- |
-| University | 235 Hrs |
+| University | 255 Hrs |
 | Corporate | 201 Hrs |
 | Independent | 20 Hrs |
 
