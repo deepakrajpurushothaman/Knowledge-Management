@@ -1,6 +1,6 @@
 # Planned Courses  
 
-| Total Effort | 603 Hrs |
+| Total Effort | 589 Hrs |
 | --- | --- |
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
@@ -43,7 +43,6 @@ Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( htt
 | Course Name | Effort |
 | --- | --- |
 | [Creativity Toolkit II: Creative Collaboration](https://www.coursera.org/learn/creativity-toolkit-2?specialization=innovation-creativity-entrepreneurship) | 20 Hrs |
-| [Entrepreneurship I: Laying the Foundation](https://www.coursera.org/learn/entrepreneurship-1?specialization=innovation-creativity-entrepreneurship) | 14 Hrs |
 | [Entrepreneurship II: Preparing for Launch](https://www.coursera.org/learn/entrepreneurship-2?specialization=innovation-creativity-entrepreneurship) | 13 Hrs |
 | [Innovation: From Creativity to Entrepreneurship Capstone](https://www.coursera.org/learn/innovation-creativity-entrepreneurship-capstone?specialization=innovation-creativity-entrepreneurship) | 7 Hrs |
    
@@ -105,4 +104,5 @@ Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( htt
 | [Strategic Innovation: Building and Sustaining Innovative Organizations]( https://www.coursera.org/learn/strategic-innovation-building-and-sustaining-innovative-organizations?specialization=innovation-creativity-entrepreneurship) | 20 Hrs |
 | [Strategic Innovation: Managing Innovation Initiatives]( https://www.coursera.org/learn/strategic-innovation-innovation-at-the-frontier) | 21 Hrs |
 | [Creativity Toolkit I: Changing Perspectives](https://www.coursera.org/learn/creativity-toolkit-1?specialization=innovation-creativity-entrepreneurship) | 17 Hrs |
+| [Entrepreneurship I: Laying the Foundation](https://www.coursera.org/learn/entrepreneurship-1?specialization=innovation-creativity-entrepreneurship) | 14 Hrs |
 
