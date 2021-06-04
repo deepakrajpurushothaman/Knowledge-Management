@@ -3,11 +3,11 @@
 ## Finished Courses
 
 [Supply Chain Analytics Specialization]( https://www.coursera.org/specializations/supply-chain-analytics? )
-[Business Intelligence and Competitive Analysis]( https://www.coursera.org/learn/businessintelligence )
 
 | Course Name | Effort |
 | --- | --- |
 | [Supply Chain Analytics Essentials]( https://www.coursera.org/learn/supply-chain-analytics-essentials?specialization=supply-chain-analytics ) | 9 Hrs |
+| [Business Intelligence and Competitive Analysis]( https://www.coursera.org/learn/businessintelligence ) | 9 Hrs |
 
 [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
