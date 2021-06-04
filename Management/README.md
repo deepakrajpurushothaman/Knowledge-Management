@@ -3,6 +3,7 @@
 ## Finished Courses
 
 [Supply Chain Analytics Specialization]( https://www.coursera.org/specializations/supply-chain-analytics? )
+[Business Intelligence and Competitive Analysis]( https://www.coursera.org/learn/businessintelligence )
 
 | Course Name | Effort |
 | --- | --- |
