@@ -1,12 +1,14 @@
-# 1.0 Project Management 
-
-## Planned Courses
-   
-ProjectX - [Agile Leadership Specialization]( https://www.coursera.org/specializations/agile-leadership-change-management )
+# Management 
 
 ## Finished Courses
 
-Project5 - [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
+[Supply Chain Analytics Specialization]( https://www.coursera.org/specializations/supply-chain-analytics? )
+
+| Course Name | Effort |
+| --- | --- |
+| [Supply Chain Analytics Essentials]( https://www.coursera.org/learn/supply-chain-analytics-essentials?specialization=supply-chain-analytics ) | 9 Hrs |
+
+[Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
 | Course Name | Effort |
 | --- | --- |
@@ -24,9 +26,9 @@ ProjectX - [Engineering Project Management Specialization]( https://www.coursera
 | --- | --- |
 | [Engineering Project Management: Initiating and Planning]( https://www.coursera.org/learn/initiating-planning ) | 20 Hrs |
 
-# 2.0 Business Management 
-
 ## Planned Courses
+
+   1.0 Business Management
 
    [Customer Insights: New Product Development Orientation]( https://www.coursera.org/learn/customer-insights-orientation )
    
@@ -43,5 +45,8 @@ ProjectX - [Engineering Project Management Specialization]( https://www.coursera
    [Strategic Sales Management Specialization]( https://www.coursera.org/specializations/sales-management-bridging-gap-strategy-sales )
    
    [Real-World Product Management Specialization]( https://www.coursera.org/specializations/real-world-product-management )
+   
+   2.0 Project Management 
+   
+   [Agile Leadership Specialization]( https://www.coursera.org/specializations/agile-leadership-change-management )
 
-## Finished Courses 
