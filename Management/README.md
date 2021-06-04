@@ -20,7 +20,7 @@
 | [Capstone: Applying Project Management in the Real World]( https://www.coursera.org/learn/applying-project-management ) | 31 Hrs |
 
 
-ProjectX - [Engineering Project Management Specialization]( https://www.coursera.org/specializations/engineering-project-management )
+[Engineering Project Management Specialization]( https://www.coursera.org/specializations/engineering-project-management )
 
 | Course Name | Effort |
 | --- | --- |
