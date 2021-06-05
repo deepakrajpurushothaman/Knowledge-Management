@@ -78,7 +78,7 @@ ProjectX - [Global Challenges in Business Specialization]( https://www.coursera.
 
 # Finished Courses 
 
-| Total Effort | 70 Hrs |
+| Total Effort | 87 Hrs |
 | --- | --- |
 
 Project1 - [Strategic Leadership and management Specialization](https://www.coursera.org/specializations/strategic-leadership)
@@ -105,4 +105,9 @@ Project4 - [Innovation: From Creativity to Entrepreneurship Specialization]( htt
 | [Strategic Innovation: Managing Innovation Initiatives]( https://www.coursera.org/learn/strategic-innovation-innovation-at-the-frontier) | 21 Hrs |
 | [Creativity Toolkit I: Changing Perspectives](https://www.coursera.org/learn/creativity-toolkit-1?specialization=innovation-creativity-entrepreneurship) | 17 Hrs |
 | [Entrepreneurship I: Laying the Foundation](https://www.coursera.org/learn/entrepreneurship-1?specialization=innovation-creativity-entrepreneurship) | 14 Hrs |
+
+
+
+| [Tools for Exploratory Data Analysis in Business](https://www.coursera.org/learn/tools-exploratory-data-analysis-business?) | 17 Hrs |
+
 
