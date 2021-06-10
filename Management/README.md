@@ -9,6 +9,13 @@
 | [Supply Chain Analytics Essentials]( https://www.coursera.org/learn/supply-chain-analytics-essentials?specialization=supply-chain-analytics ) | 9 Hrs |
 | [Business Intelligence and Competitive Analysis]( https://www.coursera.org/learn/businessintelligence ) | 9 Hrs |
 
+[Excel to MySQL: Analytic Techniques for Business Specialization]( https://www.coursera.org/specializations/excel-mysql )
+
+| Course Name | Effort |
+| --- | --- |
+| [Business Metrics for Data-Driven Companies]( https://www.coursera.org/learn/analytics-business-metrics?specialization=excel-mysql ) | 8 Hrs |
+
+
 [Google Project Management Professional Certificate]( https://www.coursera.org/professional-certificates/google-project-management )
 
 | Course Name | Effort |
