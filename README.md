@@ -14,7 +14,7 @@ Number of Effort spent measured in hours
 
 | Total Effort | 533 Hrs |
 | --- | --- |
-| University | 290 Hrs |
+| University | 298 Hrs |
 | Corporate | 201 Hrs |
 | Independent | 20 Hrs |
 
